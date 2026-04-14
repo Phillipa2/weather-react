@@ -21,7 +21,7 @@ return (
 visible={true}
 height="80"
 width="80"
-color="#4fa94d"
+color="#4d5ea9"
 ariaLabel="grid-loading"
 radius="12.5"
 wrapperStyle={{}}
